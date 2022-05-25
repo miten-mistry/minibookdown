@@ -1,4 +1,6 @@
 create-your-open-textbook
 introduction
-manchester-commute
+london-commutes
+southwark-station-to-guys-hospital
+manchester-commutes
 manchester-picadilly-to-science-and-industry-museum
