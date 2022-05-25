@@ -4,3 +4,5 @@ london-commutes
 southwark-station-to-guys-hospital
 manchester-commutes
 manchester-picadilly-to-science-and-industry-museum
+frankfurt-commutes
+griesheim-to-frankfurt-university-hospital
