@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Street names on a commute"
+author: "Miten Mistry"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
