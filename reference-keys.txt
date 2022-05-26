@@ -1,6 +1,6 @@
 street-names-on-a-commute
 introduction
 aims
-method
+method-and-results
 conclusion
 section
