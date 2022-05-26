@@ -1,7 +1,6 @@
 street-names-on-a-commute
 introduction
-london-commutes
-southwark-station-to-guys-hospital
+aims
 manchester-commutes
 manchester-picadilly-to-science-and-industry-museum
 frankfurt-commutes
