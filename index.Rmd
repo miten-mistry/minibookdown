@@ -1,5 +1,5 @@
 ---
-title: "Chemistry Experiments from Undergraduate Degree"
+title: "Chemistry Experiment from an Undergraduate Degree"
 author: "Miten Mistry"
 site: bookdown::bookdown_site
 documentclass: book
