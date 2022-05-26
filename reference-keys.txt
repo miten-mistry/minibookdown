@@ -2,5 +2,5 @@ street-names-on-a-commute
 introduction
 aims
 method
-frankfurt-commutes
-griesheim-to-frankfurt-university-hospital
+conclusion
+section
