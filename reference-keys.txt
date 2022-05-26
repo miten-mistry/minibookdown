@@ -1,7 +1,6 @@
 street-names-on-a-commute
 introduction
 aims
-manchester-commutes
-manchester-picadilly-to-science-and-industry-museum
+method
 frankfurt-commutes
 griesheim-to-frankfurt-university-hospital
