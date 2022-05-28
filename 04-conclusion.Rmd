@@ -1,3 +1,3 @@
 # Conclusion
 
-## 
+The experiment overall went quite well. The difference in the % yield between the purified and the un-purified product is quite high, possibly because after using then rotary evaporator the product was still slightly wet so that could have contributed to the weight. The melting point of the final product was 162-164°C which is very close to the literature value of 162.4°C (Wikipedia), which suggests the product is quite pure. An infra red spectrum of the final product was run. There are the distinctive Nujol peaks at 2854.37, 1460.67 and 1377.08 cm^{-1} respectively. There is an OH peak at 3463.12 cm^{-1} which shows that the final product contains an OH group as was expected. 
