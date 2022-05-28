@@ -1,4 +1,31 @@
 
 # Method and Results
 
+Prior to the experiment all glassware was checked to make sure that no traces of water or acetone was on the glassware. 1.22 g of magnesium turning was weighed out and placed into a 100 mL 3 neck round-bottom flask. The flask was clamped above the desk above a magnetic stirrer hot plate. A 100 mL addition funnel with the tap closed was attached to one of the side necks and a large reflux condenser was attached to the centre neck. The remaining neck was blocked with a stopper. 15 mL of sodium dried diethyl ether was added to the flask. A solution containing bromobenzene (5.3 mL) dissolved in 15 mL of sodium dried ether was produced and added to the addition funnel. A small portion was added to the round bottom flask and the water was turned on to the condenser. The mixture was stirred. Once the reaction had started (turned brown) the rest of the solution was added slowly and a gentle reflux was maintained. The mixture was stirred until the diethyl stopped refluxing.
+
+A solution of 2.5 mL of methyl benzoate dissolved in 15 mL of sodium dried diethyl ether was produced and added to the addition funnel. The grignard reagent in the round bottom flask was cooled to room temperature using a water bath. The solution in the addition funnel was added to the mixture; drop wise. This mixture was then refluxed for 20 minutes. The reaction mixture was then cooled to room temperature. A solution of ammonium chloride (10 g) in 50 mL of cold water was made. Once the reaction mixture had cooled the ammonium chloride was added very slowly. The mixture boiled and so was left to subside until more solution was added. Once all the solution was added, the apparatus was dismantled and the condenser water turned off.
+
+The contents of the flask were emptied into a 250 mL separating funnel. The flask was washed with 10 mL of water, twice and twice with diethyl ether (10 mL). The funnel was shaken and the pressure released. The funnel was left to stand and then the lower aqueous layer was run off. The solution in the funnel was washed twice with 50 mL of water and each time the lower layer being run off.
+     
+The remaining solution was then poured into a conical flask in which two large spatula tips loads of anhydrous sodium sulphate was added. The mixture was swirled and left to dry for a few minuets. The dried diethyl ether was poured into a pre weighed round bottom flask. The conical flask was washed with two 5 mL portions of diethyl ether. The diethyl ether was removed using a rotary evaporator. The crude product was re-crystallised from isopropanol, and the crystals filtered off by vacuum filtration. A melting point and IR spectrum was performed. 
+
+Weight of Magnesium used 1.22 g
+
+% yield of product (before re-crystallisation)
+
+Weight of Round Bottom Flask (empty) 49.56 g
+Weight of Round Bottom Flask (full) 54.78 g
+Weight of product 54.78-49.56 = 5.22 g of Triphenylmethanol
+Moles of Magnesium = $\frac{1.22}{24} = 0.0503 moles
+Moles of Triphenylmethanol $\frac{0.0503}{2} = 0.0254 moles
+Mass of Triphenylmethanol (Theoretical) 0.0254 x 260.32 = 6.62 g
+
+% yield  $/frac{5.22}{6.62} x 100 = 78%
+
+% yield (After Re-Crystallisation)
+Weight of sample vial (empty) 6.46 g
+Weight of sample vial (full) 7.49 g
+Weight of purified Triphenylmethanol = 7.49-6.46 = 1.03 g
+% yield $/frac{1.03}{6.62} x 100 = 15.6%
+Melting point of purified product 162 - 164°C 
 
